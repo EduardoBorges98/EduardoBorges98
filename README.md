@@ -15,9 +15,9 @@ São Paulo, Brasil &nbsp;·&nbsp; 7+ anos de experiência
 
 ## Sobre mim
 
-Desenvolvedor Backend com mais de 7 anos de experiência construindo APIs REST, microsserviços e soluções em nuvem. Passei pela **IBM**, **Banco Inter** e hoje atuo na **INNOLEVELS** como terceirizado pela Hitss Brasil na área de Customer Experience.
+Desenvolvedor Backend com mais de 7 anos de experiência construindo APIs REST, microsserviços e soluções em nuvem. Passei pela **IBM**, **Banco Inter** e hoje atuo na **HITSS Brasil** como terceirizado pela innolevels na área de Customer Experience. Também sou estudante de Pós Graduação.
 
-Tenho forte atuação com Java e Spring, arquiteturas distribuídas, integração via APIGEE, segurança de APIs e cultura DevOps — do pipeline de qualidade com Sonar e JaCoCo à entrega em produção com Kubernetes e AWS. Gosto de escrever código que qualquer dev consiga entender e manter.
+Tenho forte atuação com Java e Spring, arquiteturas distribuídas, segurança de APIs e cultura DevOps — do pipeline de qualidade com Sonar e JaCoCo à entrega em produção com Kubernetes e AWS. Gosto de escrever código que qualquer dev consiga entender e manter.
 
 ---
 
@@ -101,18 +101,6 @@ Projeto de grande porte no Banco Inter. Desenvolvimento e otimização de servi�
 
 **Back End Developer** — IBM &nbsp;`mar 2018 – jan 2020` &nbsp;·&nbsp; 1 ano 11 meses
 Projetos LATAM e MAPFRE. Análise e correção de bugs com RCA, implementação de melhorias em Java, extração de grandes volumes de dados com procedures SQL e documentação de testes.
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoBorges98&show_icons=true&theme=dark&hide_border=true&bg_color=1c1c1e&title_color=7b9dd4&icon_color=7db87d&text_color=9e9b93&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBorges98&layout=compact&theme=dark&hide_border=true&bg_color=1c1c1e&title_color=7b9dd4&text_color=9e9b93&langs_count=6)
-
-</div>
 
 ---
 
